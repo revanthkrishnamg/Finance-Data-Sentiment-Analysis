@@ -1,7 +1,7 @@
 # Stock Data Analysis using yFinance and Sentiment Analysis
 
 ## Overview
-This project leverages the `yfinance` library to perform detailed stock data analysis, focusing on Bank of America Corporation (BAC). Utilizing advanced data visualization, sentiment analysis with various NLP models, and statistical techniques, this project aims to understand stock price movements and the impact of news sentiment on stock performance.
+This project uses the `yfinance` library to perform detailed stock data analysis, focusing on Bank of America Corporation (BAC). Utilizing advanced data visualization, sentiment analysis with various NLP models, and statistical techniques, this project aims to understand stock price movements and the impact of news sentiment on stock performance.
 
 ## Project Overview
 - **Data Collection:** Using `yfinance` to fetch historical stock data.
